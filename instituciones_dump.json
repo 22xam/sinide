@@ -1,0 +1,236 @@
+[
+  {
+    "id": "SECRETARIO",
+    "name": "SECRETARIO",
+    "permissions": [
+      {
+        "entity": "SECCION_CURRICULAR",
+        "permission": "TOMAR_ASISTENCIA_ESPACIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "BORRAR_INSCRIPCION_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_WIDGET_ALERTAS"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_LEGAJO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "GESTION_PASES"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "MODIFICAR_DATOS_ALUMNO_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_ALERTA_USERVICIO"
+      },
+      {
+        "entity": "SECCION_CURRICULAR",
+        "permission": "VER_SANCION_SECCION_CURRICULAR"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "LEER_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "AGREGAR_INSCRIPCION_USERVICIO"
+      },
+      {
+        "entity": "SECCION",
+        "permission": "VER_DATOS_ALUMNOS_SECCION"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_REPORTE_USERVICIO"
+      },
+      {
+        "entity": "SECCION",
+        "permission": "VER_NOTAS_SECCION"
+      },
+      {
+        "entity": "JURISDICCION",
+        "permission": "LISTAR_JURISDICCION"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_INFORMACION_INSTITUCIONAL_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "MODIFICAR_EVENTO_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_PROMOCIONES"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "DAR_BAJA_SANCION"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "MODIFICAR_INFORMACION_INSTITUCIONAL_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_REPORTE_ALERTAS_USERVICIO"
+      },
+      {
+        "entity": "SECCION",
+        "permission": "VER_SECCION"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "BORRAR_INSCRIPCION_POR_CARGA"
+      },
+      {
+        "entity": "SECCION_CURRICULAR",
+        "permission": "MODIFICAR_INFORME_CALIFICACION"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_INSCRIPCIONES_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "MODIFICAR_INSCRIPCION_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "ADMINISTRACION_USUARIOS_ASISTIRE"
+      },
+      {
+        "entity": "JURISDICCION",
+        "permission": "VER_CICLO_LECTIVO"
+      },
+      {
+        "entity": "SECCION_CURRICULAR",
+        "permission": "MODIFICAR_SANCION_SECCION_CURRICULAR"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "ADMINISTRACION_USERVICIO"
+      },
+      {
+        "entity": "SECCION",
+        "permission": "MODIFICAR_SANCION_SECCION"
+      },
+      {
+        "entity": "GRUPO",
+        "permission": "LISTAR_GRUPO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "MODIFICAR_ORGANIZACION_CURSADA"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "EDITAR_PROMOCIONES"
+      },
+      {
+        "entity": "SECCION",
+        "permission": "VER_SANCION_SECCION"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "MODIFICAR_SANCION_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "LISTAR_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "MODIFICAR_TITULO_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_WIDGET_ASISTENCIA_MENSUAL"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_EVENTO_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "BORRAR_ORGANIZACION_CURSADA"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_SANCION_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_TIPO_CARGO_JUS"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "EMITIR_CERTIFICADO"
+      },
+      {
+        "entity": "SECCION_CURRICULAR",
+        "permission": "VER_NOTAS_SECCION_CURRICULAR"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_WIDGET_DIVISIONES"
+      },
+      {
+        "entity": "SECCION",
+        "permission": "TOMAR_ASISTENCIA_DIA"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_DATOS_ALUMNOS"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "MODIFICAR_TIPO_CARGO_JUS"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_ESTADISTICAS_U"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_NOTAS_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VINCULAR_TITULO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "DESVINCULAR_TITULO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "CONFIRMAR_TITULO_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_WIDGET_ASISTENCIA"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "CREAR_SECCIONES_CICLO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "VER_TITULO_USERVICIO"
+      },
+      {
+        "entity": "UNIDAD_SERVICIO",
+        "permission": "MODIFICAR_ALERTA_USERVICIO"
+      }
+    ]
+  }
+]

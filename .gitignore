@@ -34,3 +34,12 @@ Desktop.ini
 # Distribution
 *.tar.gz
 *.whl
+
+# Playwright & Data
+session.json
+contexto_elegido.json
+error_screenshot.png
+api_dump_*.json
+
+# Scratch scripts
+analyze_*.py
