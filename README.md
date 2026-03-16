@@ -11,7 +11,7 @@ Scripts de automatización en Python para la plataforma [SGE Salta](https://sge.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/sinide.git
+git clone https://github.com/22xam/sinide.git
 cd sinide
 
 # Crear entorno virtual
